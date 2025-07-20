@@ -41,10 +41,7 @@ CREATE TABLE info (
 
 http://localhost/اسم_مجلدك/index.php
 
-صورة الصفحة :
 
-
-<img width="520" height="313" alt="output web" src="https://github.com/user-attachments/assets/b875822c-2c72-4969-9a76-f7c564c80405" />
 
 
 
