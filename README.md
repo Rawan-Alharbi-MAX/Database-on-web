@@ -42,7 +42,9 @@ CREATE TABLE info (
 http://localhost/اسم_مجلدك/index.php
 
 صورة الصفحة :
-<img width="481" height="335" alt="output webpage" src="https://github.com/user-attachments/assets/ccab4a66-d29c-446b-8279-b1688a3b491b" />
+
+
+<img width="520" height="313" alt="output web" src="https://github.com/user-attachments/assets/b875822c-2c72-4969-9a76-f7c564c80405" />
 
 
 
